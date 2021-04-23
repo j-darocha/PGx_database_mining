@@ -1,0 +1,977 @@
+Unknown,7594
+European,7479
+East Asian,6703
+Multiple groups,1901
+African American/Afro-Caribbean,689
+Central/South Asian,437
+Sub-Saharan African,371
+Near Eastern,369
+Latino,279
+"Multiple groups, Participants were of mixed heritage but were at least one sixteenth Native American. 60% of the sample had over 50% Native American heritage.",194
+American,55
+"Multiple groups, European, African-American, Other",39
+"Multiple groups, 173 Caucasian pediatric patients from Spain and 189 adult patients from Brazil",33
+"Multiple groups, 1560 EA and 363 AA kidney allograft recipients",33
+"Multiple groups, Brazil",33
+in vitro,31
+"Multiple groups, Singapore",29
+"Multiple groups, 95% Caucasian",28
+"Multiple groups, subset of CATIE-SZ.  multiple U.S. sites. 161 White, 74  African American.",27
+"Multiple groups, Volunteers of European or Latino ethnicity.",26
+"Multiple groups, Brazilian",25
+"Multiple groups, White and Non-White patients",24
+"Multiple groups, 43 white, 3 african american, 1 asian",23
+"Multiple groups, Caucasian, African, Unknown",22
+"Multiple groups, Chinese, Indian, Malay",22
+"Multiple groups, 95% White",22
+"Multiple groups, Singapore: Chinese, Malay and other",22
+"Multiple groups, Caucasian, African American and Other ethnicities.",21
+"Multiple groups, USA, Colorado : African-American,  Hispanic, Asian, Caucasian",21
+"Multiple groups, Case and control cohorts were ""primarily of European ancestry""",21
+"Multiple groups, Canadian patients with European ancestry; (n=263) and non-Europeans (n = 81),",21
+"Multiple groups, Most participants are of Chinese, Malay and Indian origin, however the ethnicity of 11 participants (6 cases and 5 controls) is not given.",20
+"Multiple groups, European American and African American participants",20
+"Multiple groups, White, Asian (Indian sub-continent), mixed, Black, Oriental, unknown",19
+"Multiple groups, mostly white",18
+"Multiple groups, Mostly Asian",18
+"Multiple groups, Asian, Black, Caucasian, Other",17
+"Multiple groups, 70% Caucasian",16
+"Multiple groups, mostly White",16
+"Multiple groups, Caucasian, Black, Other",16
+"Multiple groups, Majority of patients were African American, 3 patients of African origin, 1 Asian patient , 1 Caucasian patient and 2 Hispanic patients.",16
+"Multiple groups, Black, White, Hispanic",16
+"Multiple groups, 29 white, 1 African",16
+"Multiple groups, 2366 patients were of European descent. The remaining 220 patients were of Asian descent",16
+"Multiple groups, 136/149 subjects were white, 9 were Hispanic, 2 were African American, and 2 were ""other""",16
+"Multiple groups, Malay, Chinese, Indian",15
+"Multiple groups, Brazilian.",15
+"Multiple groups, See Figure 1A for genetic ancestry data",15
+"Multiple groups, Majority Caucasian, several Native Americans, one patient race not specified.",14
+"Multiple groups, n=1 Arabian patient, the rest were Caucasian.",14
+"Multiple groups, ""12 African-American/Black, 18 Caucasian/White, 3 Multiracial, 1 Native-American or Alaskan, 2 chose not to report.; Ethnically, 22% of the sample identified as Hispanic or Latino.""",14
+"Multiple groups, ""All subjects were Caucasians with the exception of two Africans""",14
+"Multiple groups, Britain: 97% European, 2% South Asian, 1% East Asian",14
+"Multiple groups, Caucasian, Afro-Caribbean, South Asian, South East Asian",14
+"Multiple groups, 81% Caucasian",14
+"Multiple groups, 93% Jewish patients, the rest of the population were Arabic patients or non-Jewish European.",13
+"Multiple groups, Brazilian subjects (white, black, intermediate, Asian or Amerindian)",13
+"Multiple groups, Canada",13
+"Multiple groups, Chinese, Malay, Indian",13
+"Multiple groups, Black, White",13
+"Multiple groups, 88.9% European, 9.4% African American, 1.4% Asian, 0.3% admixed",13
+"Multiple groups, European American, African American and 'Other' ethnicities.",13
+"Multiple groups, Caucasian and African American",12
+"Multiple groups, 98% white",12
+"Multiple groups, 80% South African Coloured, 12% Xhosa, 8% European",12
+"Multiple groups, European American (n=734), African American (n=69), Asian (n=41), Other (n=38)",12
+"Multiple groups, Asian and Caucasian individuals.",12
+"Multiple groups, Majority Caucasian",12
+"Multiple groups, 90% Caucasian, Italy",12
+"Multiple groups, Patients with European, American, African or Asian ancestry.",12
+"Multiple groups, Asian subjects (encompassing Japanese, non-Japanese Asian and Indian Asian subjects)",11
+"Multiple groups, Asian, African American, White or 'Other' ethnicities",11
+"Multiple groups, USA: non-Hispanic White from Minnesota, non-Hispanic Black from Atlanta",11
+"Multiple groups, 46 Caucasian subjects, one Latino subject",11
+"Multiple groups, Caucasian, black and biracial participants",11
+"Multiple groups, Developed osteonecrosis: 45 White;2 Black; 4 Hispanic.  Did not develop osteonecrosis: 212 White;28 Black;55 Hispanic;15 Other.",11
+"Multiple groups, 96% of participants were Caucasian. Study carried out in Switzerland.",11
+"Multiple groups, Canada; >60% Western European Origin",11
+"Multiple groups, European, African, Hispanic",11
+"Multiple groups, African American and Caucasian",11
+"Multiple groups, Chinese, Indian and Malay from Singapore",11
+"Multiple groups, ""ndividuals from two admixed populations were included in the discovery phase: the Genes-environments & Admixture in Latino Americans Study (GALA II) and the Study of African Americans,  Asthma,Genes  andEnvironments  (SAGE).""",11
+"Multiple groups, predominantly Caucasian (n = 80), with six of African; descent, two Asian and one Mongolian¿Caucasian",10
+"Multiple groups, Vandebilt USA: 89.2% White, 9.8% Black, 1% Hispanic",10
+"Multiple groups, US Caucasians and Israeli Jewish cases with US Caucasian controls.",10
+"Multiple groups, population comprised whites, african american, asian and hispanics",10
+"Multiple groups, Caucasian (85%), African-descent (10%), Asian-descent (5%)",10
+"Multiple groups, White, Black, Asian, Unknown",10
+"Multiple groups, 95% Caucasian (Italy)",10
+"Multiple groups, Majority of patients were Caucasian and not of Hispanic/Latino origin",10
+"Multiple groups, 30/36 patients were of African origin (countries of origin: Burundi, Eritrea, Ethiopia, Sudan, Ivory Coast, Kenya, Liberia, Rwanda, Somalia, Tanzania and Uganda), 4/36 were of Asian origin (countries of origin: India, Philippines, Thailand and Uzbekistan) and 2/36 were of Latin American origin (countries of origin: Chile and Honduras)",10
+"Multiple groups, 98 White, 5 African descent, 3 Asian descent",10
+"Multiple groups, Italy",9
+"Multiple groups, White and Hispanic patients",9
+"Multiple groups, USA: 267 Caucasian and 49 African American children",9
+"Multiple groups, Individuals were included regardless of race or ethnicity",9
+"Multiple groups, South African",9
+"Multiple groups, Primarily white",9
+"Multiple groups, Caucasian, Latin-American, Black and Arab subjects",9
+"Multiple groups, European American, European Australian and African American participants",9
+"Multiple groups, European and/or Middle-Eastern ancestry",9
+"Multiple groups, Caucasian and African-American",9
+"Multiple groups, Australia, Belgium, Germany, New Zealand, USA CF centers",9
+"Multiple groups, Asian and White",9
+"Multiple groups, 56 patients were of European ancestry",8
+"Multiple groups, African American and Caucasians (approx 50% each)",8
+"Multiple groups, White, African American, Hispanic, Asian",8
+"Multiple groups, Caucasian (n=120), African (n=12), Asia (n=3).",8
+"Multiple groups, mainly White",8
+"Multiple groups, Caucasian, African, Asian, Other, Not stated",8
+"Multiple groups, Asian (n=8), Black (n=7), Caucasian (n=120)",8
+"Multiple groups, Caucasian subjects from Croatia",8
+"Multiple groups, Asian and Caucasian",8
+"Multiple groups, The majority of patients were from Central Europe, with 9 patients from Turkey and one patient each from the Ukraine, Syria, Tunisia, Dubai and Asia",8
+"Multiple groups, USA St Jude, specified 43 white, 13 black and 12 other.",8
+"Multiple groups, 87.7% white, 9.7% black, 2.6% other",8
+"Multiple groups, European American - mainly White but some Latino/White.",8
+"Multiple groups, United Kingdom- Leeds",8
+"Multiple groups, 92% Caucasian",7
+"Multiple groups, Mostly East Asian",7
+"Multiple groups, The majority of donors were Asian, the majority of recipients were Caucasian.",7
+"Multiple groups, Caucasian and Asian",7
+"Multiple groups, predominantly white (98%)",7
+"Multiple groups, African American, including self-reported Hispanics.",7
+"Multiple groups, Brazilian population",7
+"Multiple groups, 93% Caucasian 7% Indian or unknown",7
+"Multiple groups, >95% were Caucasian patients.",7
+"Multiple groups, Brazilian mixed",7
+"Multiple groups, 94% white",7
+"Multiple groups, 95.6% Caucasian",7
+"Multiple groups, predominantly European ancestry (90.2%)",7
+"Multiple groups, White, Black, Hispanic",7
+"Multiple groups, 98% Caucasian",7
+"Multiple groups, Mainly Caucasian (Italy)",7
+"Multiple groups, Mostly White",7
+"Multiple groups, White, Asian",7
+"Multiple groups, Canada.",7
+"Multiple groups, This is a retrospective pharmacogenetic analysis of a pooled dataset of selected HCV GT1- or GT4-infected participants enrolled in ten Phase II/III clinical trials of EBR/GZR: C-WORTHY (MSD Protocol, 5172-035; ClinicalTrials. gov identifier NCT01717326), C-SCAPE (5172-047; NCT01932762), C-SALVAGE (5172-048; NCT02105454), C-SURFER (5172-052; NCT02092350), Japan Phase II/III study (5172-058; NCT02203149), C-SALT (5172-059; NCT02115321), C-EDGE Treatment-Naive (5172-060; NCT02105467), C-EDGE CO-INFECTION (5172-061; NCT02105662), C-EDGE CO-STAR (5172-062; NCT02105688), C-EDGE Treatment-Experienced (5172-068; NCT02105701)",7
+"Multiple groups, Caucasian, Asian, Other",7
+"Multiple groups, 94% Caucasian, France and Belgium",7
+"Multiple groups, predominantly White",7
+"Multiple groups, Chinese; Malay; Indian",6
+"Multiple groups, Predominantly European American patients.",6
+"Multiple groups, 30 Caucasian, 5 African",6
+"Multiple groups, Caucasian, Asian, Latino and African American participants.",6
+"Multiple groups, southern Brazilian population, 81% of European ancestry",6
+"Multiple groups, 98% White",6
+"Multiple groups, Women were from all parts of Canada and most were White(""6 cases and 10 controls were of non-Caucasian ethnicity"").",6
+"Multiple groups, Predominantly Caucasian cohort",6
+"Multiple groups, Participants self‐identified themselves as of African ancestry (black), Cape mixed ancestry, or Caucasian (white)",6
+"Multiple groups, 72% of patients were Caucasian; 27% were African American and 1% were Asian.",6
+"Multiple groups, White and Unknown",6
+"Multiple groups, White and African-American",6
+"Multiple groups, Caucasian, Black/African American, Asian, Other",6
+"Multiple groups, European, African American and East Asian ancestries",6
+"Multiple groups, Mostly Caucasian",6
+"Multiple groups, 227 African Americans and 219 European Americans",6
+"Multiple groups, Caucasian, Black, Asian",6
+"Multiple groups, An original 111 patients self-reported as Caucasian 79;African-American 27 and Other 5.",6
+dysgenic myotubes,6
+"Multiple groups, >95% Nordic Caucasian",6
+"Multiple groups, Thirty eight patients (43%); were Caucasians, eight (9%) were Hispanic, 22 (25%); were African, 15 (17%) were South Americans, five; (6%) were Asians and one (1%) was native to the Middle; East.",6
+"Multiple groups, White, Black, Asian, Pacific Islander, Native American, Unknown",6
+"Multiple groups, White, Black, Other",6
+"Multiple groups, 80% Caucasian",6
+"Multiple groups, White, Black",6
+"Multiple groups, Caucasian and 'Other' ethnicities.",6
+"Multiple groups, Majority of participants were non-Hispanic Whites.",6
+"Multiple groups, 95% White, 2% Black, 4% other",6
+"Multiple groups, Portugal, 44 ""Caucasian"" 1 ""African""",6
+"Multiple groups, Although the cohort is treated by the authors as a Caucasian population, people of Asian and African origin are included as cases.",6
+"Multiple groups, Asian, Black, Other and White ethnicities",6
+"Multiple groups, Participants from studies carried out in China, India, Japan and Korea.",5
+"Multiple groups, White, Indigenous Australian, Torres Strait Islander and Asian participants",5
+"Multiple groups, Malaysian, Chinese, Korean, Thai, Indian, Japanese",5
+"Multiple groups, Brazilian participants (white, black, intermediate, Asian or Amerindian).",5
+"Multiple groups, Brazil.",5
+"Multiple groups, South African, Peruvians, American.",5
+"Multiple groups, 71% Caucasian",5
+"Multiple groups, USA: White, African American, Hispanic",5
+"Multiple groups, Japanese Americans, European Americans and Native Hawaiian",5
+"Multiple groups, 87% White",5
+"Multiple groups, Caucasian, Asian, Black, Oriental, Mixed, Unknown",5
+"Multiple groups, 89.2% White, 9.8% Black, 1% Hispanic",5
+"Multiple groups, Caucasian, African American and 'other'",5
+"Multiple groups, European-Brazilian and African-Brazilian",5
+"Multiple groups, Mostly white",5
+"Multiple groups, mostly whites",5
+"Multiple groups, African Americans and Caucasians",5
+"Multiple groups, 22 African American, 2 Asian, 77 Caucasian, 1 Pacific Islander",5
+Oceanian,5
+"Multiple groups, mostly White; 10 French centers;Cases:96.0% ""European(White)"";4.1% Asian.  Controls:96.3% ""European(White)""; 0.8% Black; 2.9% Asian.",5
+"Multiple groups, Black, Caucasian, Mixed race, Asian, Other",5
+"Multiple groups, mostly Caucasians",5
+"Multiple groups, mostly White (>90%)",5
+"Multiple groups, White, African-American",5
+"Multiple groups, Mostly white (91%)",5
+"Multiple groups, Self-identified as Black, White or Hispanic.",5
+"Multiple groups, USA: 20% Black, 70% white, 9% other; NCT00088452",5
+"Multiple groups, Brazilian. 83.7% European ancestry, 16.3% African ancestry",5
+"Multiple groups, Participants from studies carried out in USA, Germany, Spain, China, India, Japan and Korea.",5
+"Multiple groups, Caucasian, African, Asian",5
+"Multiple groups, Singapore: Chinese, Malay, Indian",5
+"Multiple groups, 93% Jewish patients, the rest of the population were Arabic patients or non-Jewish European patients.",5
+"Multiple groups, ""majority Central Europeans, 9 subjects from Turkey, and 1 subject each from the Ukraine, Syria, Tunisia, Dubai, and Asia""",5
+"Multiple groups, Caucasian, Mediterranean, Asian, Black",5
+"Multiple groups, white origin (n = 58 [81.7%]) with a few patients of Arab (n = 5), African (n = 3), Asian (n = 1), or undocumented origin (n = 4).",5
+"Multiple groups, 92.9% White, Connecticut USA",5
+"Multiple groups, Vanderbilt USA: 89.2% White, 9.8% Black, 1% Hispanic",5
+"Multiple groups, Multi-ethnic Asian patients from Singapore includes Chineses, Malays and Indians.",5
+"Multiple groups, 8 studies",4
+"Multiple groups, Israeli - European, Middle Eastern and Asian mixed ancestry",4
+"Multiple groups, 96% white",4
+"Multiple groups, Brazil approximately half White half non-white",4
+"Multiple groups, Caucasian, African, African American, Arabic and 'Other' ethnicities",4
+"Multiple groups, 291 unrelated non-Hispanic African American adults (150 women and 141 men) from Atlanta, GA, and 294 unrelated non-Hispanic white adults (126 women and 168 men) from Rochester, MN",4
+"Multiple groups, European Australian and African American participants",4
+"Multiple groups, 16 Asian, 69 white, 91 black or African-American patients and 7 patients of other ethnic origins",4
+Not applicable - study was carried out using rectal organoids,4
+"Multiple groups, European Americans, African Americans, Other",4
+"Multiple groups, Primarily European, African, some Hispanic, Asian Pacific, American Indian",4
+"Multiple groups, White, Asian, Other",4
+Not applicable.,4
+"Multiple groups, European White and South Asian",4
+"Multiple groups, UK, Spain, Italy",4
+"Multiple groups, Caucasian, East Asian, South Asian, Black, Other",4
+"Multiple groups, patients at Washington University Medical Center.  79 White;13 African-American.",4
+"Multiple groups, 82 South African Colored (SAC), 13 Xhosa and eight Caucasian individuals",4
+"Multiple groups, predominantly (95%) White European",4
+"Multiple groups, USA: Vandebilt, Iowa, UCSF. Overall 77-84% white",4
+"Multiple groups, Caucasian, Native American/Alaska Native and Asian participants.",4
+"Multiple groups, Netherlands: 62 Caucasian, 1 Asian",4
+"Multiple groups, African (n=6), European (n=23), Hispanic (n=2), multiple race (n=2)",4
+"Multiple groups, Australia: 4% were Caucasian, 13% Asian, 10% Pacific Islander, and 13% others",4
+"Multiple groups, Non-Hispanic White, Asian, African American and Latino",4
+"Multiple groups, 84% white",4
+"Multiple groups, European, African-American, Hispanic, Mixed",4
+"Multiple groups, White (nevirapine sensitive n=13, tolerant n=239) and Asian (sensitive n=6, tolerant n=23)",4
+"Multiple groups, European-Americans and African-Americans",4
+"Multiple groups, 23 White and 1 African",4
+"Multiple groups, 3 high volume centers in the Netherlands (> 85% Caucasian)",4
+"Multiple groups, 140 Whites,83 African Americans, 4 ""other"" from Baltimore, Maryland",4
+"Multiple groups, Asian and Caucasians were studied",4
+"Multiple groups, 225 Caucasians and 146 Blacks for nevirapine and efavirenz cohorts, Germany",4
+"Multiple groups, Most of patients were White, but race information was not captured uniformly between the studies.",4
+"Multiple groups, European, Asian, Other",4
+"Multiple groups, Caucasian and African-American children.",4
+"Multiple groups, Participants self-reported as being Chinese, Japanese, 'Other East Asian' and 'Other'",4
+"Multiple groups, 33 Japanese, 27 Caucasian liver samples",4
+"Multiple groups, White and African American patients",4
+"Multiple groups, Ashkenazi Jewish origin, Sephardic Jewish origin, Mixed Jewish origin (Ashkenazi + Sephardic), any other origin",4
+"Multiple groups, Malay, Chinese and other",4
+Non human cell line,4
+"Multiple groups, Predominantly Caucasian and Asian",4
+"Multiple groups, Caucasian, Native American, African American, Asian",4
+"Multiple groups, 93% Caucasian (n = 191), 2.4% Asian (n = 5), 1.0% African (n = 2), and 3.4% other (n = 3 Hindustani, 3 Surinamese, 1 Israeli). All results remained similar when performed with and without inclusion of non-Caucasian patients.",4
+"Multiple groups, Asian subjects - includes studies from China, Malaysia and Iran",4
+"Multiple groups, Germany, Austria, Switzerland, France, Italy",4
+"Multiple groups, European and African Brazilian subjects.",4
+"Multiple groups, Majority White",4
+"Multiple groups, mostly Caucasian (1429) with a few Hispanic(19),African(9),Asian(4) and Other(5)",4
+"Multiple groups, Caucasians and Latin Americans",4
+"Multiple groups, Black and white patients",4
+"Multiple groups, 100% Caucasian for *3/*3 patients; 56% for *1/*1 or *1/*3, 44% ""other"".",4
+"Multiple groups, Majority of patients were Caucasian.",4
+"Multiple groups, Asian, African American, Hispanic, Caucasian and Other ethnicities.",4
+"Multiple groups, Asian, Middle Eastern, Southern European, Anglo-Celtic Australian",4
+"Multiple groups, Italy, specified 37.5% Caucasian, 62.5% Other.",4
+"Multiple groups, U.S. patients: 20 African American and 44 White",4
+"Multiple groups, Brazilian patients (white, brown or black, according to Brazilian census categories)",4
+"Multiple groups, Chinese, Malay, Indian mixed population.",4
+"Multiple groups, 85% Both parents of European origin",4
+"Multiple groups, White, African American, Asian, Latino and Native American participants.",4
+"Multiple groups, 75 (71%) Caucasians, 14 (13%) Hispanics, 11 (10%) Asians, and six (6%) African-American study participants.; Age, ethnicity, and sex were not associated with patient survival.",4
+"Multiple groups, 94% were White (all were patients at Ottawa Hospital Thrombosis Clinic).",4
+"Multiple groups, Caucasian (n=60), African (n=11), Asian (n=3), American Indian (n=2)",4
+"Multiple groups, Patients from Belem, Amazon, Brazil.",4
+"Multiple groups, White, Black, Asian",4
+"Multiple groups, 74% Caucasian;16% Hispanic;4% African American;6% other.",4
+"Multiple groups, USA, Colorado. ""The most frequent self-reported race was white (Caucasian) (46.6% [163/350]) and 51.4% (180/350) of participants reported Hispanic or Latina ethnicity.""",3
+"Multiple groups, 89.4% White, 7.7% Black, 3.0% other.",3
+"Multiple groups, Microsomes derived from Caucasian, African American and Hispanic donors.",3
+"Multiple groups, Chinese (n=36), Malay (n=8) and Other (n=1)",3
+"Multiple groups,  Caucasian (76%), Asian (2%), African American (5%), Hispanic (11%), Other",3
+"Multiple groups, 701 patients from Malaysia (Malay, Chinese or Indian), 803 patients from Hong Kong (Han Chinese).",3
+"Multiple groups, White (n=21), Black (n=3), Asian (n=3), Indian (n=3)",3
+"Multiple groups, White, African-American, Hispanic, Other",3
+"Multiple groups, Self-reported: 143 White, 37 Black, 1 Asian, 8 other.",3
+"Multiple groups, predominantly Caucasian",3
+"Multiple groups, Caucasian (n=27), Asian (n=3), East Indian (n=3), Black (n=2), Native North American (n=1), mixed race (n=4)",3
+"Multiple groups, Portugal: 44 white, 1 african",3
+"Multiple groups, Mainly Caucasian",3
+"Multiple groups, Europe, UK, US, Taiwan",3
+"Multiple groups, African American (n=4), Caucasian (n=7), Hispanic (n=2)",3
+"Multiple groups, Italy, Caucasian (n=11), African (n=7), Asian (n=3), Latin American (n=3)",3
+"Multiple groups, Caucasian, Asian",3
+"Multiple groups, USA ""49 White, 18 Black, 7 Other""",3
+"Multiple groups, The majority of study participants were Caucasian",3
+"Multiple groups, White/European American; Black/African American; other",3
+"Multiple groups, White and African American participants",3
+"Multiple groups, 2 Black, 1 Asian, 9 Whites",3
+"Multiple groups, European-Americans: 871; African-Americans: 191; Hispanics: 75.",3
+"Multiple groups, Black (n=12), White (n=81), South Asian (n=20), Other (n=5)",3
+"Multiple groups, Reported that approximately 99% of patients were Caucasian in this cohort.",3
+"Multiple groups, ""93.2% Caucasian""",3
+"Multiple groups, USA: majority African Americans (97%), 3 Hispanic subjects, 1 Caucasian.",3
+"Multiple groups, White, African American, Asian, Unknown",3
+"Multiple groups, 82.4% white",3
+"Multiple groups, 84 participants were white.",3
+"Multiple groups, Eighty-one normal breast (4 European American (CA), 8 African American (AA) and 69 of unknown ethnicity; 78 female, 2 male and 1 unknown gender)",3
+"Multiple groups, White/non-Hispanic (n=378); Black/non-Hispanic (n=121); Hispanic (n=112)",3
+"Multiple groups, White European and Black African",3
+"Multiple groups, Majority of participants were Caucasian",3
+"Multiple groups, Asian, Caucasian and African subjects",3
+"Multiple groups, Cohort was ""90% Caucasian"", all DPYD variant carriers were ""Caucasian""",3
+"Multiple groups, residents of mainland U.S. or Puerto Rico.  White,Hispanic,African American,Other.",3
+"Multiple groups, 91 Malays;96 Chinese;46 Indians.",3
+"Multiple groups, 84% White",3
+"Multiple groups, African-American and European-American data analyzed separately.",3
+"Multiple groups, Singapore: 131 Chinese, 81 Malays and 36 Asian Indians",3
+"Multiple groups, 85 White and 69 Black individuals",3
+"Multiple groups, Netherlands, Germany, Canada",3
+"Multiple groups, Predominantly White (78%), 18% Black, 4% Latino-Hispanic",3
+"Multiple groups, 93% White",3
+"Multiple groups, 94% White",3
+"Multiple groups, predominantly white",3
+"Multiple groups, 49 women and 160 men, the majority of whom were white (95%)",3
+"Multiple groups, Caucasian, Indigenous Australian and Asian participants",3
+"Multiple groups, Dutch SUTOX consortium (five medical centres in the Netherlands), Spanish Oncology Genitourinary Group (SOGUG) medical centres (15 Spanish participating hospitals), and the Cleveland Clinic Foundation (CCF) Taussig Cancer Institute in the United States, overall 96% white",3
+"Multiple groups, European (n=128), African-American (n=55), Other (n=10)",3
+"Multiple groups, 74% Caucasian",3
+"Multiple groups, White British and mixed other",3
+"Multiple groups, Thirty-one (79%) patients were Caucasian, six (15%) were Asian and two (5%) were Hispanic.",3
+"Multiple groups, Caucasian, African American, Asian and multiracial patients",3
+"Multiple groups, European-Americans, African Americans and ""Others"" recruited in Germany, Ohio (USA) and New York(USA).",3
+"Multiple groups, Asian and Caucasian participants",3
+"Multiple groups, 39 men and 36 women; 73 white, 1 Asian, and 1 black African",3
+"Multiple groups, mostly Caucasian.  Individual studies were conducted in Europe or North America.",3
+"Multiple groups, Asian, Black, White",3
+"Multiple groups, African American, non-Hispanic Caucasian and Hispanic Caucasian",3
+"Multiple groups, Netherlands: recipients were 79% white, 10% Asian, 9% Black, 2% other. Races of donors not specified.",3
+"Multiple groups, White, Hispanic, Asian/Pacific Islander, Other",3
+"Multiple groups, 95% of the study population was of Caucasian origin",3
+"Multiple groups, Caucasian, African, Asian and an individual of Malagasy origin.",3
+"Multiple groups, Brazilian, 61% non-White",3
+"Multiple groups, Asian",3
+"Multiple groups, predominantly comprised of patients of European descent (self-identified (Caucasians) (comprising 84.7% of the study cohort), it also included a small number of self-reported Hispanics (13.9% of the cohort).",3
+"Multiple groups, Self reported - black, white, Asian, and other.; Analysis was also done when subdivided by ancestry genetic markers but was not significantly different.",3
+Not applicable - study was carried out in PBE cells,3
+"Multiple groups, White (64); African American (4)",3
+"Multiple groups, 79% Caucasian",3
+"Multiple groups, 48 European Americans; 4 African Americans; 2 Hispanics",3
+"Multiple groups, White and hispanic (36%), white and non-hispanic (57%)",3
+"Multiple groups, The three ethnic/racial groups with the largest number of genotyped patients were blacks (n = 211, 50.6%), whites (n = 143, 34.3%) and Asians (n = 39, 9.4%). Additional ethnic/racial groups that included American Indians, Native Alaskans, Native Hawaiians, Pacific Islanders or others, contained only 24 (5.7%) genotyped patients",3
+"Multiple groups, 38 white, 4 black, 2 asian",3
+"Multiple groups, 94% caucasian",3
+"Multiple groups, Brazil: ""51% Caucasian,  16% African, 32% Intermediate, 1% other""",3
+"Multiple groups, Netherlands, describe cohort as 85.4% ""European ethnicity""",3
+"Multiple groups, 84.4% Caucasian;9.8% African ancestry;2.9% Asian;2.9% other.",3
+"Multiple groups, ""Most of the adolescents were of Dutch origin""",3
+"Multiple groups, probably White (Spanish mental health center).",3
+"Multiple groups, INVEST-GENES.  40% White; 48.4 % Hispanic; 11.7% Black.; ""cohort study nested in a randomized trial.""",2
+"Multiple groups, 38 Whites; 2 Blacks",2
+"Multiple groups, 45% Chinese, 22% Malay, 23% Iban, 10% others",2
+"Multiple groups, Caucasian, Egyptian, Mixed",2
+"Multiple groups, African American, Caucasian.",2
+"Multiple groups, 22 Caucasians, 14 African-Americans",2
+"Multiple groups, Caucasian, African American, Asian and Hispanic participants",2
+"Multiple groups, 87 white;2 African American; 3 Asian.",2
+"Multiple groups, Mostly White, non-African American",2
+"Multiple groups, Study carried out in hospitals in Miami, Florida and Jerusalem, Israel. Participants were predominantly of Jewish, Arab, Black or Hispanic ethnicities.",2
+"Multiple groups, 68% Caucasian, 32% African American",2
+"Multiple groups, STRIDE cohort. Sub-saharan african black and south american hispanic",2
+"Multiple groups, USA : White (314), Black (19),  other (17)",2
+"Multiple groups, 93% of participants were white and 97% were non-Hispanic",2
+"Multiple groups, USA ""90% Caucasian, 8.4% African American, 1.6% Other""",2
+"Multiple groups, Asians (n = 1103), blacks (n = 670), and whites (n = 3113)",2
+"Multiple groups,  Cincinnati Children’s Hospital Medical Center self identified Caucasian and African American",2
+"Multiple groups, Mixed, Caucasian, Egyptian",2
+"Multiple groups, Caucasian, Asian, Latino",2
+"Multiple groups, 85% Black/African American",2
+"Multiple groups, pooled African American plus European subjects,  mainly from the mid-south U.S states (part of  the MSTF= Mid-South Tobacco Family) cohort.",2
+"Multiple groups, Caucasian and African American patients.",2
+"Multiple groups, White or unknown",2
+"Multiple groups, Caucasian and Unknown",2
+"Multiple groups, Studies include Asian, Caucasian, African-American, Hispanic and Polynesian participants and participants of unreported ethnicity.",2
+"Multiple groups, Chinese (n=67) and Indian (n=87)",2
+"Multiple groups, Caucasian, Egyptian",2
+"Multiple groups, Caucasian, African American, Hispanic, Asian/Pacific Islander, American Indian",2
+"Multiple groups, African american and european american",2
+"Multiple groups, USA: White (n=63), African American (n=1), Hispanic (n=45), Asian (n=28)",2
+"Multiple groups, USA approx 62% White, 6% Black or African American, 27% Hispanic, 5 % other",2
+"Multiple groups, 326 blacks and 596 whites",2
+"Multiple groups, Two Whites and One Chinese from Singapore",2
+"Multiple groups, 94.8% Caucasian.",2
+"Multiple groups, 93% white",2
+"Multiple groups, 78% Caucasian",2
+"Multiple groups, Boston, USA ""Over 35% of the participants came from ethnic minority populations""",2
+"Multiple groups, Mixed population of white and Hispanic (Puerto Rico) subjects",2
+"Multiple groups, mainly white",2
+"Multiple groups, ""White and black or African American"" subjects",2
+"Multiple groups, 67 Caucasian, 3 Hispanic",2
+"Multiple groups, 78 African American and 65 white patients",2
+"Multiple groups, Predominantly African American (67%)",2
+"Multiple groups, France, the Netherlands, Belgium, United States, Germany, China, India ,Singapore and Malaysia",2
+"Multiple groups, White, non-Latino: 56%;White, Latino:18%;African American: 14%;Other: 12%.",2
+"Multiple groups, European Caucasian and African American patients",2
+"Multiple groups, 85% of participants were of European ethnicity",2
+"Multiple groups, of Brazilian descent.  ""analyses are based on data from 370 patients; enrolled in a previously published retrospective study designed to; develop a warfarin dosing algorithm in Brazilian patients.10 The; patients were recruited at Instituto Nacional de Cardiologia de; Laranjeiras, a reference cardiology hospital of the Brazilian public; health system, located in Rio de Janeiro, Brazil.""",2
+"Multiple groups, White, non-Hispanic, Black and Middle-Eastern particicpants",2
+"Multiple groups, 184 sites in the U.S.; Puerto Rico",2
+"Multiple groups, 75% were Caucasian.",2
+"Multiple groups, Malay (n=16), Chinese (n=9), Indian (n=1)",2
+"Multiple groups, White, black, Hispanic and other ethnicities",2
+"Multiple groups, non-Caucasian.",2
+"Multiple groups, mostly White (81%)",2
+"Multiple groups, Caucasian, White",2
+"Multiple groups, Canadian patients with European ancestry; (n=263) and non-Europeans (n = 81)",2
+"Multiple groups, 94 patients were of white Spanish origin, one was of African (Moroccan) origin, and one was of Asian (Indian) origin",2
+"Multiple groups, studies were from Japan, Korea or China one from Singapore - this is why did not check East Asian",2
+"Multiple groups, Study was carried out in the Netherlands so authors expect ""that virtually all participants are Caucasians"". However, this is not confirmed.",2
+"Multiple groups, ""Ethnicity was not explicitly recorded, but the mast majority (>95%) of patients were Caucasian""",2
+"Multiple groups, Caucasian, Asian, African, Hispanic",2
+"Multiple groups, mainly Whilte",2
+"Multiple groups, Majority Caucasian (72%)",2
+"Multiple groups, 389 Caucasian; 22 African American; 43 ""Other"".; STRENGTH study.",2
+"Multiple groups, Controls- 92.3 % White; Cases- 90.9% White.",2
+"Multiple groups, White, African-American, Native Hawaiian",2
+"Multiple groups, Chinese ethnic group (76%), followed by Malays (18%) and Indians (5%)",2
+"Multiple groups, European and Non-European",2
+"Multiple groups, White and Black",2
+"Multiple groups, European, Asian Indian, African, indigenous Australian, Asian",2
+"Multiple groups, 92% White, 6% African, 2% Asian; French",2
+"Multiple groups, 41% African American; 28% Caucasian (European); 18% Hispanic; 5% Asian; 8% other",2
+"Multiple groups, 75% white, 20% black, 5% asian",2
+"Multiple groups, 59 White; 55 African American",2
+"Multiple groups, 88 CEU HapMap cell lines; 89 Yorubi HapMap cell lines",2
+"Multiple groups, 93% Caucasian, 7% Indian or unknown",2
+"Multiple groups, White, African American, Asian",2
+"Multiple groups, Caucasian, Asian or other ethnic background",2
+"Multiple groups, Singapore: Chinese, Malay, Indian, Other",2
+"Multiple groups, German, Austrian, Switzerland, France, Italy",2
+"Multiple groups, Europe, UK, US, Australia",2
+"Multiple groups, ""Hispanic Caucasian"" and ""Non-Hispanic Caucasian"" subjects",2
+"Multiple groups, Approximately 95% White",2
+"Multiple groups, 79.6% Caucasian;8.8% Hispanic;3.3% Asian;2.8% African-American; 5.2% undisclosed. Subjects were from the Denver/Boulder, CO metropolitan area.  About half the samples were from unrelated individuals and the other half were dizygotic twin and sib-pairs.",2
+"Multiple groups, 93% Caucasian",2
+"Multiple groups, Cases and controls were ""primarily Caucasian"".",2
+"Multiple groups, Caucasian (primarily), and African-American",2
+"Multiple groups, 81% caucasian",2
+"Multiple groups, Patients were of Caucasian, Hispanic or African American ethnicity",2
+"Multiple groups, China, Germany, Japan, USA, Korea, Taiwan",2
+"Multiple groups, Chinese, Indian, Malaysian",2
+"Multiple groups, Dutch: ""Caucasian"":60;""Negroid"":9,""Asiatic"":3.",2
+"Multiple groups, 93.2% white (n = 191), 2.4% Asian (n = 5), 1.0% black (n = 2), and 3.4% other (3 Hindustani, 3 Surinamese, and 1 Israeli)",2
+"Multiple groups, Souther brazillians",2
+"Multiple groups, Cases: 124 Non-Hispanic Whites;16 Hispanics;12 Blacks; 18 Other.  Controls: 252 Non-Hispanic Whites;29 Hispanics;14 Blacks;22 Other.",2
+"Multiple groups, White, African american",2
+"Multiple groups, non-Hispanic White, non-Hispanic Black, Hispanic White, Hispanic Black, Other",2
+"Multiple groups, Asian, European",2
+"Multiple groups, African American/African American/Hispanic Asian/White/Hispanic White/Non-Hispanic",2
+"Multiple groups, European or Latin American ancestry",2
+"Multiple groups, Korean, Chinese, French",2
+"Multiple groups, 82% caucasian",2
+"Multiple groups, mostly Whites and Blacks.",2
+"Multiple groups, Brazil, ""Brazilians are a highly admixed population with Amerindian, European and African ancestral roots""",2
+"Central/South Asian, African American/Afro-Caribbean",2
+"Multiple groups, Caucasian: 69%, African American: 20%, Asian: 7.7%, Native American: 1.7% and Unknown: 1.9%.",2
+"Multiple groups, Austalian",2
+"Multiple groups, White, Black, other",2
+"Multiple groups, pediatric",2
+"Multiple groups, n=1366 African American, n=671 European American.",2
+"Multiple groups, White, African-American, Asian, and Hispanic origin",2
+"Multiple groups, 45 infants were white and 5 were of Tunisian or Moroccan descent.",2
+"Multiple groups, 105 Caucasians (6 Hispanic or Latino),1 African-American,1 Asian",2
+"Multiple groups, 53% White, 42% Polynesian (Maori), 5% Asian",2
+"Multiple groups, White,African American,Hispanic,Asian/Pacific Islanders,American Indians.",2
+"Multiple groups, Mainly Caucasian, 2 Hispanic, 1 African-American and 1 American Indian",2
+"Multiple groups, Caucasian, African-American, Other",2
+"Multiple groups, Brazil: white and black",2
+"Multiple groups, Chinese, Indian and Malay participants in Singapore",2
+"Multiple groups, 306 healthy Brazilians: 81 Euro-derived and 18 Afro-derived",2
+"Multiple groups, African American and White",2
+"Multiple groups, White 97.00%,; Asian 2.30%,; Black 0.40%; other 0.30%",2
+"Multiple groups, not stated for the individuals genotyped, full cohort was a mixed population",2
+"Multiple groups, European, UK, US, Japan",2
+"Multiple groups, 95.3% European American,; 2.1% African American, 1.2% Asian American, 1.2%; Hispanic, and 0.2% mixed-race",2
+"Multiple groups, Black, Hispanic, and White",2
+"Multiple groups, Caucasian, African American, Asian and Hispanic participants.",2
+"Multiple groups, Netherlands; 93.2% Caucasian (n = 191), 2.4% Asian (n = 5), 1.0% African (n = 2) and 3.4% Other (Hindustani [n = 3], Surinamese [n = 3] and Israeli [n = 1]). Authors stated ""All results remained similar when performed with and without inclusion of non-Caucasian patients (data not shown).""",2
+"Multiple groups, Predominantly White European (95%)",2
+"Multiple groups, Caucasian n=44, African-American n=13, Hispanic n=30, Asian n=6, Other n=2.",2
+"Multiple groups, Most subjects were Caucasian college students in their early 20s",2
+"Multiple groups, 206 unrelated non-Hispanic women (130 blacks and 76 whites)",2
+"Multiple groups, Caucasian and African American participants",2
+"Multiple groups, 81.8% European origin, 5.3% African, 12.9% Asian (in Brazil)",2
+"Multiple groups, 171 White; 45 African American",2
+"Multiple groups, 86% Caucasian",2
+"Multiple groups, Most studies were in Chinese patients but 5 were not (2 Japanese, 1 Korean, 1 Indian, 1 Turkish) and one was in a non-specific ""Asian"" population",2
+"Multiple groups, 22 white, 8 black",2
+"Multiple groups, Cincinnati Children’s Hospital Medical Center, self identified Caucasian and African American",2
+COS-1 cells,2
+"Multiple groups, African -Americans plus European Americans",2
+"Multiple groups, Caucasian, African American and biracial/multiracial participants",2
+"Multiple groups, Majority Caucasian patients.",2
+"Multiple groups, ""Non-Hispanic Caucasian"" and ""Hispanic Caucasian"" subjects",2
+"Multiple groups, Finnish",2
+"Multiple groups, 621 African American and European American families from 4 U.S. sites",2
+"Multiple groups, White, African-American, Other",2
+"Multiple groups, White and Hispanic participants",2
+"Multiple groups, Black,White",2
+"Multiple groups, 72% White;27% Black; 2% Other",2
+"Multiple groups, German, Austrian, Swiss, French, Italian",2
+"Multiple groups, USA - 66.7% Caucasian, 18.8% African American, 7.4% Hispanic, 7.1% other",2
+"Multiple groups, USA, Caucasians (n = 114) and African American (n = 26)",2
+"Multiple groups, African-American and non-African-American",2
+"Multiple groups, USA and Canada: 74% Caucasian, 26% African American",2
+"Multiple groups, Study cohort was primarily of European ancestry.",2
+"Multiple groups, Mostly Caucasian, some Black, Asian, Other",2
+"Multiple groups, Patients from 129 centers across 14 countries",2
+"Multiple groups, out of an initial 40 patients(2 of whom did not complete the study), there were 35 Caucasian,2 Maori,2 Fijian Indian and 1 Chinese from the Australian New Zealand Clinical Trials registry.",2
+"Multiple groups, African-American, Caucasian, Asian-American",2
+"Multiple groups, Forty-five patients were Caucasian, 3 Asian, 3 African-American and 2 Hispanic",2
+"Multiple groups,  majority (~93%) of the subjects enrolled in this study were white",2
+"Multiple groups, Chinese and Indian self-reported ethnicities.",2
+"Multiple groups, ""Primarily Caucasian""",2
+"Multiple groups, USA: 73% White, 18.9% African American, 8.1% Asian",2
+"Multiple groups, White,Black,Other",2
+"Multiple groups, White and Other ethnicities",2
+"Multiple groups, Mixed Asian",2
+"Multiple groups, 96% Caucasian",2
+"Multiple groups, 23 were male, 38 were white, and 15 were nonwhite. The median age was 6 years (range, 0 to 18 years)",2
+"Multiple groups, INVEST-GENES.  40% White; 48.4 % Hispanic; 11.7% Black. ""cohort study nested in a randomized trial.""",2
+"Multiple groups, 79% white",2
+"Multiple groups, Participants were of Hispanic, Caucasian or African American ethnicity.",2
+"Multiple groups, White, African American, Asian American and/or Pacific Islander, Hispanic or Other ethnicities",2
+"Multiple groups, 278 white patients and 95 black patients; 293 male",2
+Not applicable - study carried out in Xenopus oocytes,2
+"Multiple groups, Chinese, Malay and Indian self-reported ethnicities.",2
+"Multiple groups, White, Black and Hispanic",2
+"Multiple groups, Trinidad, self reported African descent and Indian descent with at least three grandparents of the same ethnic group.",2
+"Multiple groups, 80% White, remaining unspecified",2
+"Multiple groups, Canada: Asian, Caucasian, South Asian, Hispanic, Middle Eastern, First Nations, Other",2
+"Multiple groups, Ethnicity; Malay, Chinese, Kadazan-Dusun, Bajau.",2
+"Multiple groups, Japanese and Caucasian",2
+"Multiple groups, White, Black, Asian, Other",2
+"Multiple groups, European and Asian (Chinese, Korean, Japanese, ""Asia"" unspecified)",2
+"Multiple groups, Caucasian, Asian, Latvian, Chilean, African-American",2
+"Multiple groups, Discovery cohort - meta-analysis of European Americans and African Americans from the COGA study",2
+"Multiple groups, 6 Caucasians, 5 African-Americans.",2
+"Multiple groups, 1366 individuals  from 402 African American familes and 671 individuals from 200 European American families.    People were mostly from U.S. mid-south.  The study  included as many biological parents and siblings of probands as was possible, regardless of smoking status.",2
+"Multiple groups, Participants were of African American, Caucasian, Hispanic, Native North American or Other ethnicities. Note that 4 individuals reported having one Caucasian parent and one African American parent, while a further 5 reported having one Hispanic parent and one Caucasian parent. These individuals were classified as being African American or Hispanic, respectively.",2
+"Multiple groups, HapMap CEU and YRI cell lines",2
+"Multiple groups, ""White, Black, Mulatto or Oriental"" participants from Brazil",2
+"Multiple groups, Fourteen subjects were white and one of Hispanic origin.",2
+"Multiple groups, European American - Mainly White with some Latino/White",2
+"Multiple groups, Caucasians n=82, African n=2, South Asian n=1",2
+"Multiple groups, PEAR race/ethnicity was self-described by study patient and confirmed by principal components analysis, any patient that did not report black ancestry during screening was considered non-black in statistical analyses.",1
+"Multiple groups, mostly white males (73.1% were male; 84.8% were white, and the remainder were Hispanic)",1
+"Multiple groups, USE; 80% Caucasian, 12% African American, 6% Hispanic, 2% Asian",1
+"Multiple groups, USA Vandebilt,  white and Black/African American",1
+"Multiple groups, African-American (n=37), European-American (n=46), Asian (n=5), Unknown (n=1).",1
+"Multiple groups, Caucasian, Hispanic, African American, American Indian, Asian, Native Hawaiian and ""other"" ethnicities.",1
+"Multiple groups, 225 Caucasians and 146 Blacks, Germany",1
+"Multiple groups, 92% white",1
+"Multiple groups, European, UK, Japan",1
+"Multiple groups, For all genotypes, there were 7907 subjects.  5749 were ""*1/*1"";24 were *3/*3 (the rest were other genotypes). 12 studies were performed in Asia,13 in the Americas and 14 in Europe.",1
+"Multiple groups, 79% White; patients from 2 Kansas City hospitals",1
+"Multiple groups, White , African Americans and other from Baltimore , MD.",1
+"Multiple groups, The majority; of the population was white (European American), and 20 of; the patients were black (African American).",1
+"Multiple groups, Caucasian and Hispanic/Latino patients",1
+"Multiple groups, 24 Whites, four African-; Americans,and two Asians",1
+"Multiple groups, 139 Caucasians, 2 Black Africans",1
+"Multiple groups, Two studies that were mostly Caucasian, ranging from 88% white to >95% white cases and one in Korean Asian cases",1
+"Multiple groups, European and African ancestries",1
+"Multiple groups, 97% African American, 3 Hispanic, 1 Caucasian",1
+"Multiple groups, In total, there were 556 individuals of African descent (Africans,; African Americans, and black Brazilians), 1,889 Asians, and; 6,908 Caucasian/white Americans.",1
+"Multiple groups, Britain 90% White, 4% Asian/Indian/Pakistani, 6% mixed background",1
+"Multiple groups, Mixed Asian (Hong Kong)",1
+"Multiple groups, Maori, Pacific Islander and Caucasian",1
+"Multiple groups, African Americans and African populations",1
+"Multiple groups, European-American plus African American",1
+"Multiple groups, All the patients were white, apart from three (one Indian, one Yemeni, one half-Thai). All of these control subjects were white.",1
+"Multiple groups, Singapore (Chinese, Malay, Indian)",1
+"Multiple groups, 89% Caucasian; 8% Asian; 3% African-American, age range 30-63, female",1
+"Multiple groups, Not stated: studies in Denmark, Czech, China and Greece.",1
+"Multiple groups, Japanese, European, Korean, Canadian",1
+"Multiple groups, Mainly Japanese",1
+"Multiple groups, African = 24, Caucasian = 27, Maghrebi = 2",1
+"Multiple groups, Not stated: studies in Belgium, Switzerland, Denmark, Czech, China and Greece.",1
+"Multiple groups, 77 white, 1 black",1
+"Multiple groups, White and Japanese",1
+"Multiple groups, Jewish. Jewish Israeli, 44-57% Ashkenazi",1
+"Multiple groups, 57% African descent, 43% european descent",1
+"Multiple groups, USA: non-Hispanic White, Minnesota, non-Hispanic Black, Atlanta",1
+"Multiple groups, Non-Hispanic White, Asian, African American, Latino",1
+"Multiple groups, 88.4% caucasian, 6.6% black, 2.3% hispanic, 2.5% asian, 0.2% other",1
+"Multiple groups, Caucasian and Asian patients",1
+"Multiple groups, white, black",1
+"Multiple groups, African-American, Caucasian, Chinese and Korean",1
+"Multiple groups, 17 Caucasian, 2 Black",1
+"Multiple groups, Mostly Caucasian, remainder unspecified",1
+"Multiple groups, European (Spanish and Italian, especially),; Amerindian and a small group of Middle Eastern  origin",1
+"Multiple groups, Norway",1
+"Multiple groups, All patients were from Russian hospitals.  Racial breakdown is given for the group of all pediatric cancer patients (a superset of the ALL patients).  White: 413;Asian:6;Ural:3;Other:21.",1
+"Multiple groups, 91% caucasian, 4.5% african american",1
+"Multiple groups, Canadian.",1
+"Multiple groups, White, African American and Other",1
+"Multiple groups, Caucasian, Black, Hispanic/Latino patients.",1
+"Multiple groups, Japanese, Caucasian, Korean",1
+"Multiple groups, mostly Caucasian",1
+"Multiple groups, ""27-center randomized clinical trial in the U.S.: 56% white, 20% African American, 17% Hispanic, 4% Asian/Pacific Islander, 3% American Indian""",1
+"Multiple groups, White; Black; Latino",1
+"Multiple groups, African, Asian, Mexican.  Patients were enrolled in UCSF study protocols 9203 or 9303.",1
+"Multiple groups, Combined studies from Spain, Greece, The Netherlands and Ukraine populations.",1
+"Multiple groups, Majority were White patients",1
+"Multiple groups, For all genotypes, there were 7907 subjects.  5749 were ""*1/*1"";81 were *2/*3 (the rest were other genotypes). 12 studies were performed in Asia,13 in the Americas and 14 in Europe.",1
+"Multiple groups, Brazil, 73% White other ethnicities not described",1
+"Multiple groups, 94% white, 6% Black or African American",1
+"Multiple groups, 92% White, 8% Black",1
+"Multiple groups, 60.3% Euro-Brazilians; 39.7% Afro-Brazilians",1
+"Multiple groups, 152 sites in 18 countries (Argentina, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Italy, Mexico, Netherlands, Portugal, Russia, Spain, Sweden, Switzerland, United Kingdom, and United States) White N¿=¿1722; Hispanic N¿=¿154; African N¿=¿56; other N¿=¿35",1
+"Multiple groups, Of the 1536 study participants,; 1362 (88.7%) were selfidentified; as white, with 100 (6.5%) selfidentified; as black, 44 (2.9%) as; Hispanic, 19 (1.2%) as Asian, and 11; (0.7%) as other.",1
+"Multiple groups, 94% ""Caucasian""; 6% ""Chinese or Asian""",1
+"Multiple groups, White, Latino, African American, Asian",1
+"Multiple groups, American Indian/Alaska Native Asian; Black or African American Multiple; White; Missing",1
+"Multiple groups, African American and Caucasian.",1
+"Multiple groups, Chinese, Korean, French",1
+"Multiple groups, USA: 86% white",1
+"Multiple groups, European, UK, Japan, Canada",1
+"Multiple groups, Caucasians (n=46), African Americans (n=10)",1
+"Multiple groups, Caucasian and White",1
+"Multiple groups, 20.1% African American",1
+"Multiple groups, Mostly White.  14/16 receiving tacrolimus once daily were white.  12/15 receiving tacrolimus twice daily were white.",1
+"Multiple groups, African American and European American",1
+"Multiple groups, 4 studies all listed as Caucasian; Italy, Spain, Norway, USA",1
+"Multiple groups, South African - Caucasian, Black African, Cape mixed, Indian",1
+"Multiple groups, 76 Asian;251 Black;405 Hispanic;1687 White; 116 Other (Self-reported).",1
+"Multiple groups, Asian, Caucasian, Africa-American",1
+"Multiple groups, Japanese and UK",1
+"Multiple groups, 95 European",1
+"Multiple groups, Caucasian, Black, Hispanic, Oriental, Missing",1
+"Multiple groups, 29 White, 10 African American,and 1; 'Hispanic""",1
+"Multiple groups, Caucasians: 288;African-Americans:107;Other:17",1
+"Multiple groups, White, Japanese, Korean, Iranian, Chinese",1
+"Multiple groups, CAP: White; PRINCE: African American and Caucasian",1
+"Multiple groups, African and Caucasian",1
+"Multiple groups, Singapore: Chinese (85%), Malay, Indian",1
+"Multiple groups, Non-Hispanic whites, Asians, African Americans and Latinos",1
+"Multiple groups, White (n = 34), Asian (n = 4) and Latino (n = 2)",1
+"Multiple groups, 77.4% White",1
+"Multiple groups, USA",1
+"Multiple groups, Majority African American (n=55)",1
+"Multiple groups, Caucasian (n=52), African American (n=12) or American Indian or Alaskan native (n=1). One participant did not identify a racial background. Seven participants self identified their ethnicity as Hispanic",1
+"Multiple groups, East Asian (n=299) and Caucasian (n=966)",1
+"Multiple groups, Atlanta: black and non-Hispanic white",1
+"Multiple groups, Bolivian and Argentinian subjects",1
+"Multiple groups, 64.7% White, 32.1% Black, 0.3% American Indian/Alaskan native, 0.9% Asian/Pacific Islander, 2.1% other, 11.5% Hispanic",1
+"Multiple groups, 82% White.",1
+"Multiple groups, 89.8% White;7.9% North-African;1% Hispanic;0.6 % Asian.",1
+"Multiple groups, Mostly European samples",1
+"Multiple groups, French study: Caucasian, Black and Other",1
+"Multiple groups, White, Hispanic, Black, Asian, Other",1
+"Multiple groups, 94 patients; were of white Spanish origin, one was of African (Moroccan) origin, and one was of Asian (Indian) origin",1
+"Multiple groups, White, African American",1
+"Multiple groups, White,African,Asian,Mexican.",1
+"Multiple groups, French, Australian, UK",1
+"Multiple groups, White, Black, Native American, Hispanic",1
+"Multiple groups, Mainly Caucasian and Asian",1
+"Multiple groups, Framingham MA, USA, random population sample",1
+"Multiple groups, Japan",1
+"Multiple groups, Japanese American, European American, Native Hawaiian",1
+"Multiple groups, non-Hispanic and Hispanic Caucasian",1
+"Multiple groups, 40 White; 5 African-American;3 other.  Patients at Washington University Medical Center, St. Louis, MO, USA",1
+"Multiple groups, 43 subjects (81%) were Chinese and 10 (19%) were Malay.",1
+"Multiple groups, 74 Caucasian, 1 African American",1
+"Multiple groups, acitretin responders (106) and acitretin nonresponders (84). Responders: White 95; Black African 1; Indian 5; Chinese 1 ; Asian other 3; Egyptian 1 ; Non-responders White 75; Black Caribbean 1; Black African 1; Indian 1; Asian other 5; Egyptian 1 .",1
+"Multiple groups, predominately New Zealand Caucasian",1
+"Multiple groups, White and South Asian",1
+"Multiple groups, Japanese and Italian",1
+"Multiple groups, Asian (n=126) and Caucasian (n=71)",1
+"Multiple groups, Patients from Sao Palo and Maringa, Brazil.",1
+"Multiple groups, White, Black and other",1
+"Multiple groups, Israeli, 62 Jewish subjects and 10 subjects that are either Caucasians or Arabs. For simplicity, the Jewish subjects are divided into two main groups: Ashkenazi and ¿non-Ashkenazi¿. The ¿non-Ashkenazi¿ group includes Moroccan, Yemenite, Iraqi, Turkish, Iranian, Libyan, Syrian, Greek subjects and subjects with mixed origin or unknown origin. Five subjects are Jewish of mixed or unknown origin.",1
+"Multiple groups, 59 White;  50 African American",1
+"Multiple groups, HIV infected White and Black patients from German Competence network for HIV/AIDS",1
+"Multiple groups, 74% White",1
+"Multiple groups, White, African American and other from Baltimore , MD.",1
+"Multiple groups, 85% were white.",1
+"Multiple groups, Study carried out in Stockholm, Sweden. 120 controls and 67 cases had two Swedish parents and were included in subgroup analysis.",1
+"Multiple groups, 69% white",1
+"Multiple groups, White and Black (n=2)",1
+"Multiple groups, Caucasian (n=13) and African American (n=1)",1
+"Multiple groups, first generation antipsychotic drugs (e.g. phenothiazines, thioxanthenes and butyrophenones) and risperidone were classed as drugs with strong D2 receptor blocking properties.",1
+"Multiple groups, mostly White patients(95% were White) patients at a Spanish hospital.",1
+"Multiple groups, 1416 patients in the cohort were white, 285 were black and 114 were classed as 'other'",1
+"Multiple groups, White,Black,Asian,American Indian children treated at St Jude's Hospital.  p listed as 0.0029- correction not discussed",1
+"Multiple groups, pooled African American sample plus European American sample.  Nuclear families. MSTF(Mid-South Tobacco Family) cohort.",1
+"Multiple groups, Framingham MA, USA, random sample of population",1
+"Multiple groups, 86.4% White, non-Hispanic;3.4% White, Hispanic; 10.2% Black, non-Hispanic followed at Children's Hospital of Pittsburgh (PA, USA)",1
+"Multiple groups, mainly of European descent (98.6%)",1
+"Multiple groups, 81.6% Caucasian, 18.4% African-America",1
+"Multiple groups, European Americans and African Americans in San Antonio, Texas.",1
+"Multiple groups, Region of enrollment: (original TRITON-TIMI 38 paper) North America; Western Europe; Eastern Europe; Middle East; Africa; Asia; Pacific",1
+"Multiple groups, 81% White, 11% Asian",1
+"Multiple groups, USA, Vanderbilt: Black, White, Hispanic",1
+"Multiple groups, mostly Caucasian but not specified",1
+"Multiple groups, 3 cohorts:A(75 self-reported Caucasions- Turin, Italy); B(42 self-reported Caucasians- Madrid, Spain); C(65 unknown, but probably mostly Caucasian since from Liverpool Therapeutic Drug Monitoring Registry).",1
+"Multiple groups, USA - 88.5% Caucasian, 7% African American, 2.6% Hispanic, 1.9% other.",1
+"Multiple groups, Caucasian, Black and Asian patients.",1
+"Multiple groups, Of cases, 87.2% were Caucasian, 8.5% African American, 4.3% other/unknown",1
+"Multiple groups, 3 Chinese; 6 European",1
+"Multiple groups, Asian (n=126) and Caucasian (n=455)",1
+"Multiple groups, 80% white and 18%; black",1
+"Multiple groups, ""Study subjects were predominantly Black men""",1
+"Multiple groups, Swedish, Turkish and Chinese",1
+"Multiple groups, 97.3% of participants were of ""Dutch origin"".",1
+"Multiple groups, German, Kenyan parents.",1
+"Multiple groups, Majority white British",1
+"Multiple groups, Healthy volunteers (12 Caucasian, 5 Asian, 1 African American, 1 subject undetermined)",1
+"Multiple groups, White:21; African_American:14; Asian:7",1
+"Multiple groups, Caucasian, African American, Hispanic",1
+"Multiple groups, South-East Asian and Caucasian. Australian.",1
+"Multiple groups, For all genotypes, there were 7907 subjects.  5749 were ""*1/*1"";78 were *2/*2 (the rest were other genotypes). 12 studies were performed in Asia,13 in the Americas and 14 in Europe.",1
+"Multiple groups, Caucasian, Black, Hispanic/Latin.",1
+"Multiple groups, 170 unrelated non-Hispanic men (62 blacks and 108 whites)",1
+"Multiple groups, 94 White; 49 African American",1
+"Multiple groups, 29 White persons, 1 African",1
+"Multiple groups, mostly white males (73.1% were male; 84.8% were white, and the remainder were Hispanic",1
+"Multiple groups, 115 African Americans, 41 Hispanic and 28 white",1
+"Multiple groups, For all genotypes, there were 7907 subjects.  5749 were ""*1/*1"";759 were *1/*3 (the rest were other genotypes). 12 studies were performed in Asia,13 in the Americas and 14 in Europe.",1
+"Multiple groups, Human Variation Panel LCLs and DNA samples.  96 EA; 96 AA; 96 HCA.Freq. of C was 0.49 in AA; 0.59 in EA and 0.77 in HCA.",1
+"Multiple groups, Human Variation Panel: 58 EA;53 AA; 60 HCA; unrelated CEPH: 23.  Freq of A: in EA- 0.137; in AA- 0.374; in HCA- 0.068",1
+"Multiple groups, white, black, other",1
+"Multiple groups, Han Chinese, Indian, Malay in Singapore",1
+"Multiple groups, Tel Aviv, Israel and Las Vegas, and NY,  USA",1
+"Multiple groups, Caucasians and african americans",1
+"Multiple groups, London UK, White Caucasian (32%), Black Caribbean (33%), Black African (24%), Asian/other (10%), no details",1
+"Multiple groups, Non hispanic white and black",1
+"Multiple groups, Swedish liver samples",1
+"Multiple groups, Chinese, Malays, Indian",1
+"Multiple groups, Caucasian, Asian, African",1
+"Multiple groups, 98% ethnic Germans",1
+"Multiple groups, 17 Caucasians, 2 Hispanics, 1 Asian",1
+"Multiple groups, Malay, Indian, Chinese",1
+"Multiple groups, all cases were Caucasian, 4 of controls were non-Caucasian",1
+"Multiple groups, 664 participants were Caucasian, one was Asian, two were African and the ethnicity of the remaining nine participants is unknown.",1
+"Multiple groups, USA, Caucasian and African-American men and women",1
+"Multiple groups, Caucasian and Asian subjects",1
+"Multiple groups, Maori and Pacific Islander, and Caucasian",1
+"Multiple groups, Majority of subjects were Non-Hispanic African Americans",1
+"Multiple groups, Irish, UK, Taiwan",1
+"Multiple groups, African, White, Hispanic, Asian",1
+"Multiple groups, Cases:  Recipients of  kidney transplants at the Oxford Transplant Centre.  95% were Caucasian.  The *1/*3C patient was of Afro-Caribbean ancestry.  The controls were UK Caucasian cadavers (renal allograft donors).",1
+"Multiple groups, 40% Africanâ¿¿American, 28% Caucasian (European), 19% Hispanic, 5% Asian, 8% other",1
+"Multiple groups, predominantly Caucasian population",1
+"Multiple groups, European, Han Chinese, Korean, Thai, Japanese, Malaysian",1
+"Multiple groups, Malaysia: Malay, Chinese, Indian, Iban, Bidayuh, Melanau, Bajau, Kadazan, Dusun, Suluk",1
+"Multiple groups, The male with G6PD deficiency was Black, the two patients with normal activity were White, and of the two patients with unknown activity one was Black and one was White.",1
+"Multiple groups, 206 unrelated non-Hispanic women (130 blacks and 76 whites) and 170 unrelated non-Hispanic men (62 blacks and 108 whites)",1
+"Multiple groups, 62% white",1
+"Multiple groups, 60.8% European American, 18.6% African-American, 17.7% Asian-American, 2.9% Other",1
+"Multiple groups, 19 Black patients, 1 White patient.",1
+"Multiple groups, Caucasian, East Asian, Undeclared",1
+"Multiple groups, Genotyped: 1669 White, 609 African American, 497 Hispanic, 127 Asian, 82 American Indian.",1
+"Multiple groups, 25 black/African American, 4 Asian, 2 North American Native, 68 Hispanic and Non-Hispanic white.",1
+"Multiple groups, Study included Swedish, European American, Finnish, American Indian, African American, German, Hispanic, Japanese, Korean, Chinese, Taiwanese, Indian and Malay participants.",1
+"Multiple groups, 89% white",1
+"Multiple groups, 89% White, 11% Nonwhite; Fred Hutchinson Cancer Research Center, USA",1
+"Multiple groups, Asian subset of studies.",1
+"Multiple groups, Mostly Caucasian, ranging from 88% white to >95% white cases",1
+"Multiple groups, 72 Caucasian, 7 African-American, 1 Indian",1
+"Multiple groups, The larger cohort is ""mostly Caucasian"".",1
+"Multiple groups, 95% White.",1
+"Multiple groups, 84% were white",1
+"Multiple groups, Responders: White 95 (89%) Black African 1 (1) Indian 5 (5) Chinese 1 (1) Asian other 3 (3) Egyptian 1 (1);Nonresponders: White 75 (89%) Black Caribbean 1 (1) Black African 1 (1) Indian 1 (1) Asian other 5 (6) Egyptian 1 (1).  The frequency of e4 carriers was higher in the nonresponder group, but this was not significant.  When just the white patients were compared, the results were the same.",1
+"Multiple groups, Caucasian (n=48), African-American (n=4), Hispanics (n=2)",1
+"Multiple groups, East Asian (n=188) and Caucasian (n=147)",1
+"Multiple groups, Netherlands, Turkey, Sweden, Denmark, Finland, Italy",1
+"Multiple groups, 82% White",1
+"Multiple groups, USA - 64.6% Caucasian, 14.1% African American, 10.3% Hispanic, 10.9% other",1
+"Multiple groups, Participants were of Hispanic, African American, Caucasian and other ethnicities",1
+"Multiple groups, Maori, Pacific Islanders and Caucasians",1
+"Multiple groups, UK Biobank",1
+"Multiple groups, 23 White and 1 Black",1
+"Multiple groups, China, Taiwan, Japan, Malaysia",1
+"Multiple groups, 90.7% European, 6.4% African, 2.2% Asian, 0.6% Native American.  Ethnicity: 8.4% Hispanic.  Mayo clinic,M.D. Anderson Cancer Center, Memorial Sloan-Kettering Cancer Center.",1
+"Multiple groups, ""Southern United States""",1
+"Multiple groups, 140 (61.7%) were white, 83 (36.6%) were African American, and 4 (1.8%) were other race/ethnicity",1
+"Multiple groups, 98% Caucasian and 2% Asian",1
+"Multiple groups, Participants were identified as Caucasian, Turkish or being of European ancestry",1
+"Multiple groups, SIngapore: Chinese, Malay, Indian",1
+"Multiple groups, South Africa : 9 white, 21 black, 1 indian individuals",1
+Not applicable - study carried out in BHK cells,1
+"Multiple groups, Black(25) and White (77) Children",1
+"Multiple groups, American: Caucasian, Asian, Hispanic",1
+"Multiple groups, 85% White",1
+"Multiple groups, Brazilian (African Americans and Whites).",1
+"Multiple groups, Controls- 92.3 % White; Stroke- 94.0 % White.",1
+"Multiple groups, Asian, Thai, Black, White",1
+"Multiple groups, Black, White, other; St Judes, USA",1
+"Multiple groups, German, Austrian, Swiss, French, Italian,",1
+"Multiple groups, 7 non-Hispanic white, 3 Asian, and 2 native Hawaiian/other Pacific Islander",1
+"Multiple groups, 184 sites in the U.S.; Puerto Rico.  Whites,Hispanics.",1
+"Multiple groups, European and US",1
+"Multiple groups, Caucasian, Mediterranean, Asian, Black, Other",1
+"Multiple groups, Brazil ""White, Asian, Black, Brown""",1
+"Multiple groups, White, non-Hispanic; Asian; Black; White, Hispanic",1
+"Multiple groups, INVEST-GENES: White, Black, Hispanic and mixed.",1
+"Multiple groups, Thai, White, Black, North-East Asians",1
+"Multiple groups, All the patients were white, apart from three (one Indian, one Yemeni, one half-Thai). All controls were white.",1
+"Multiple groups, 93.2% White;2.4% Asian;1.0 % Black; 3.4% other.",1
+"Multiple groups, Icelandic cases",1
+"Multiple groups, European and  US",1
+"Multiple groups, mostly Blacks, Whites",1
+"Multiple groups, White, African American, Hispanic",1
+"Multiple groups, ""The sample consisted predominantly of Caucasian participants (n=40); others reported Asian (n=6), East Indian (n=4), African (n=2), Native (n=1), mixed (n=2), or “other” (n=5) racial backgrounds. One participant endorsed Hispanic ethnicity without indicating race.""",1
+"Multiple groups, 63.5% Caucasian; 34.5% African American; 2.0% Other.  patients undergoing non-emergency PCI at the Sinai Hospital of Baltimore (NCT00799396).",1
+"Multiple groups, mostly Asian and White",1
+"Multiple groups, 64% were Caucasian, 13% Asian, 10% Pacific Islander and 13% others",1
+"Multiple groups, multiethnic Malaysian population (Malay (72%), Indian and Chinese)",1
+"Multiple groups, Netherlands, 97.8% Caucasian",1
+"Multiple groups, USA, Canada, UK",1
+"Multiple groups, USA Chicago: Caucasian (n=105), Hispanic (n=4), Asian (n=2), African American (n=1), Native American (n=1), Other (n=1)",1
+"Multiple groups, Atlanta: black, non-Hispanic white",1
+"Multiple groups, Caucasian 76; African-American 4; Hispanic origin 29; Asian origin 11.  38 women.  Avg age 65.5 +/- 10.9 .  Patients were at Baylor College of Medicine, Houston,; TX, United States.  Patients were scheduled for elective; percutaneous coronary intervention (PCI). All; patients had received aspirin 81¿325mg daily for; z1week before the PCI and had not received a; thienopyridine or GP IIb/IIIa inhibitor in the week; prior to enrollment",1
+"Multiple groups, non-HIspanic Caucasian, African-American, Hispanic Caucasian",1
+"Multiple groups, Of the 1536 TOTAL study participants,; 1362 (88.7%) were self-identified as black, 44 (2.9%) as; Hispanic, 19 (1.2%) as Asian, and 11; (0.7%) as other.",1
+"Multiple groups, Australian or European, ethnicity not specified",1
+"Multiple groups, UK: 67% ""Caucasian ethnicity"" 33% ""Black ethnicity""",1
+"Multiple groups, Microsome derived from Caucasian, African American and Hispanic donors.",1
+"Multiple groups, One arabian patient, all others were Caucasian.",1
+"Multiple groups, EM:9 Caucasian;1 Chinese (Asian).  PM:2 Caucasian; 5 Chinese and 3 Japanese (8 Asian).",1
+"Multiple groups, Children's Oncology Group (COG) study (ALTE03N1; Key Adverse Events After Childhood Cancer; clinicaltrials.gov identifier NCT00082745), NCT00082745; principal investigator, Smita Bhatia).",1
+"Multiple groups, 86% African-American;14% White.",1
+"Multiple groups, Individuals with European and Latin American ancestry",1
+"Multiple groups, White, African-American, Hispanic",1
+"Multiple groups, whites and hispanics",1
+"Multiple groups, USA, Seattle, predominantly White 1-3% Black",1
+"Multiple groups, 194 African Americans, 57 whites, 53 Latinos",1
+"Multiple groups, USA, about 80% White, 10-20% African American, a couple of Asian and HIspanic subjects",1
+"Multiple groups, mostly white.",1
+"Multiple groups, Finnish (mostly Caucasian)",1
+"Multiple groups, 111 were Caucasian American and 99 were African American",1
+"Multiple groups, 90% Caucasian",1
+"Multiple groups, North American (treated in Boston).  The 25 were a subset of the study cohort of 61(38 White,5 Hispanic,5 Asian,12 African American).",1
+"Multiple groups, 99 Chinese, 12 Malaysian, 13 Indians",1
+"Multiple groups, Liver Donors were Northern European,African,Hispanic, Other or Unknown.  A subset was used for genotyping.",1
+"Multiple groups, Mainly Caucasian, remainder unspecified",1
+"Multiple groups, Study carried out in London, Ontario, Canada. The majority of study participants were Caucasian.",1
+"Multiple groups, White European and South Indian ancestry",1
+"Multiple groups, 94 White;49  African American",1
+"Multiple groups, Japanese, other Asian or ""other""",1
+"Multiple groups, African American, Asian, Hispanic, WHite",1
+"Multiple groups, South African. Mixed ancestry - San, Khoi-Khoi, European, Madagascan, West African, Javanese",1
+"Multiple groups, One Portuguese, one Israeli",1
+"Multiple groups, South African: 56 individuals were Black, one individual white and one individual ""colored""",1
+"Multiple groups, China, Japan, India, Singapore, Uruguay, Thailand",1
+"Multiple groups, USA, Caucasians (n = 114) and Africanâ¿¿American (n = 26)",1
+"Multiple groups, 87.5% were Caucasian",1
+"Multiple groups, Caucasian, African American, Hispanic or Other ethnicities",1
+"Multiple groups, Majority White patients.",1
+"Multiple groups, Jewish.  Israel, 24% Ashkenazi",1
+"Multiple groups, Jewish. Israel, 24% were Ashkenazi",1
+"Multiple groups, Finnish, African American and Native American populations",1
+"Multiple groups, White (32) and African-American (3)",1
+"Multiple groups, Black n=23, White n=119, Middle Eastern n=12, South Asian n=26",1
+"Multiple groups, White,Black,Asian,American Indian children treated at St. Jude's Hospital.  Uncorrected p was 1.8 x 10 (-5).  364,033 SNPs were tested, so a Bonforroni corrected p would not be < 0.05",1
+"Multiple groups, Bulgarian and Roma participants",1
+"Multiple groups, 79% were White.  Patients from 2 Kansas city hospitals.",1
+"Multiple groups, Japanese and Caucasians",1
+"Multiple groups, 90% White",1
+"Multiple groups, Asian and Caucasian subjects",1
+in-vitro,1
+"Multiple groups, 98% non-Hispanic or White",1
+"Multiple groups, Study classified ethnicity as African-American and Non-African American",1
+"Multiple groups, 85% Caucasian",1
+"Multiple groups, White, Afican american",1
+"Multiple groups, White, Hispanic, Unknown",1
+"Multiple groups, White (n=92), African (n=1) and Hispanic (n=3)",1
+"Multiple groups, European American, African American, Hispanic",1
+Lymphoblastoid Cell Lines,1
+"Multiple groups, 230 white subjects and 33 nonwhite subjects",1
+"Multiple groups, 11% Black, 47% Hispanic, 41% White",1
+"Multiple groups, White and black subjects",1
+"Multiple groups, black, white, Hispanic mainland US and P.R",1
+"Multiple groups, 432 European American plus 25 African American",1
+"Multiple groups, 293 African American,1245 White Non-Hispanic, 241 White Hispanic.",1
+"Multiple groups, White:21; African-American:4; Asian:7",1
+"Multiple groups, East-Asians, Caucasians, Hispanics and Blacks",1
+"Multiple groups, 87.8% white, 7% black, 2.7% hispanic, 1.8% asian, 0.6% other.; 79.3% male",1
+"Multiple groups, East Asian (n=111) and Caucasian (n=819)",1
+"Multiple groups, Caucasian, Hispanic, Black, Oriental, Missing",1
+"Multiple groups, Studies include Asian, Caucasian, Hispanic, Polynesian participants and participants of unreported ethnicity.",1
+"Multiple groups, Three Whites and One Malaysian from Singapore",1
+"Multiple groups, Participants were of Caucasian, African American or Asian background. Study carried out in Baltimore, Maryland.",1
+"Multiple groups, Netherlands",1
+"Multiple groups, Mostly Caucasian, ranging from 88% white to 100% white cases, one study Korean Asian, one unknown,",1
+"Multiple groups, France",1
+"Multiple groups, United States",1
+"Multiple groups, French and UK",1
+"Multiple groups, Patients of European or African American ancestry",1
+"Multiple groups, 68% Caucasian, 18% African American, 1% Asian, 2% Other",1
+"Multiple groups, Black or White",1
+"Multiple groups, Brazil, 78-87% Caucasian",1
+"Multiple groups, Of the 1536 TOTAL study participants,; 1362 (88.7%) were self-identified; as white, with 100 (6.5%) self-identified; as black, 44 (2.9%) as; Hispanic, 19 (1.2%) as Asian, and 11; (0.7%) as other.",1
+"Multiple groups, Caucasian; African American",1
+"Multiple groups, Caucasian (n=94), Asian (n=2)",1
+"Multiple groups, African America, Asian, Hispanic, White",1
+"Multiple groups, Black, mixed-race and white participants",1
+"Multiple groups, White Hispanic, White non-Hispanic, African American, Asian/Pacific Islander, Native American or 'Unknown' ethnicities",1
+"Multiple groups, No other associations between CYP2B6 or ABCB1 genotype and any other treatment response end points were observed overall and among white, black, or Hispanic participants analyzed separately",1
+"Multiple groups, In the full set of all drug hypersensitive patients, 89%(133) were of European ancestry and could be qualified as ¿Caucasians¿. One patient was from North Africa, eight originated from sub-Saharan Africa, six from Asia and two from South America",1
+"Multiple groups, 84% European",1
+"Multiple groups, combined European American and African American sample",1
+"Multiple groups, 552 Caucasian; 106 African American",1
+"Multiple groups, 72% White;27% Black; 2% other",1
+"Multiple groups, 35 Caucasian, five African- American, and one Hispanic subjects",1
+"Multiple groups, ""Almost all adolescents (94.1%) lived in households with both parents being Caucasian, the remainder had a least one non-Caucasian parent""",1
+"Multiple groups, 71% White, 27% Asian",1
+"Multiple groups, Caucasian, African American and Hispanic",1
+"Multiple groups, Australia. Authors state ""Ethnic proportions were similar in both groups"" but do not define what ethnic groups.",1
+"Multiple groups, (Hispanic or Latino,American Indian or Alaska Native(American Indian), Black or African American(African)(= Venezualan clinic patients))",1
+"Multiple groups, 98% Caucasian.",1
+"Multiple groups, Mostly Caucasian and Asian",1
+"Multiple groups, Seattle, USA, predominantly White, 1.-3.4% Black.",1
+"Multiple groups, Black, White, Other; St Judes, USA",1
+"Multiple groups, Europe, US, UK",1
+"Multiple groups, Caucasians, African Americans, Asians and Hispanics",1
+"Multiple groups, 29 White, 1 African",1
+"Multiple groups, 57 Caucasian, 2 African",1
+"Multiple groups, ""Study populations included Caucasian, east Asian and African.""",1
+"Multiple groups, 24 Black patients, 1 White patient.",1
+"Multiple groups, mostly White, with some African American,Asian Pacific Islander,Hispanic, and other.",1
+"Multiple groups, White, non-Hispanic; Asian; BlackWhite, Hispanic",1
+"Multiple groups, Tanzania, Mozambique, South Africa, Uganda, Rwanda, Ethiopia, India, Thailand, Cambodia",1
+"Multiple groups, Caucasian (n=188); African-American (n=68)",1
+"Multiple groups, Chinese, Indian, Malaysian, Japanese, Korean, Pakistan, Reunion, Vietnam, Cambodia, Senegal, European",1
+"Multiple groups, Maori, other Pacific Islander, and Caucasian",1
+"Multiple groups, European Caucasian and one of Asian origin",1
+"Multiple groups, Participants were of Caucasian, Indigenous Australian, Torres Strait Islander, Asian, Indian or Turkish ethnicity.",1
+"Multiple groups, Of the 1536 TOTAL study participants,; 1362 (88.7%) were self-identified as white, with 100 (6.5%) self-identified; as black, 44 (2.9%) as; Hispanic, 19 (1.2%) as Asian, and 11; (0.7%) as other.",1
+"Multiple groups, USA : 90% White, 5% African american, 5% other",1
+"Multiple groups, Brazil, 73.3% White other ethnicities not documented",1
+"Multiple groups, Non-African-American",1
+"Multiple groups, Native American (n=20) and Caucasian (n=11)",1
+"Multiple groups, Netherlands, 97% Caucasian",1
+"Multiple groups, 46 Whites; 24 Blacks",1
+"Multiple groups, Africans and individuals of African descent",1
+"Multiple groups, 41% Hispanic, 35% White, and 24% Asian",1
+"Multiple groups, 20,786 individuals from several European countries.",1
+"Multiple groups, Chinese, Indian, Malay and 'other' participants from Singapore",1
+"Multiple groups, 139 Caucasian, 2 Black African",1
+"Multiple groups, Caucasians, African Americans, Asian/other/unknown",1
+"Multiple groups, Caucasian, Black/African-American, Asian, Other",1
+"Multiple groups, 8 African American, 1 African American/Hispanic, 2 Asian, 7 Caucasian/Hispanic, 26 Caucasian/Non-Hispanic",1
+"Multiple groups, white, African; American, and Hispanic men and women with hypertension",1
+"Multiple groups, 65 patients qualified for pharmacogenomic studies, 46 were of East Asian ethnicity and 19 were of non-Asian ethnicity (18 Hispanic and one Caucasian)",1
+"Multiple groups, White, Black, Hispanic, Asian, Other",1
+"Multiple groups, South African: Mixed Ancestry, indigenous Africans (Black), those of European ancestry(White) and descendents from Indian and South-east Asian immigrants (Other).",1
+"Multiple groups, Group as Asian, but list components studies as from China, Korea, Japan, India, Malayia, Thailand",1
+"Multiple groups, Portugal: 44 white, 1 African",1
+"Multiple groups, Netherlands, Italy, Turkey, Denmark, Sweden, Finland",1
+"Multiple groups, white, black, hispanic",1
+"Multiple groups, Caucasian and Hispanic",1
+"Multiple groups, 2 self-reported African American ancestry; 1 self-reported Pacific Islander ancestry; the remainder self-reported as White.",1
+"Multiple groups, England",1
+"Multiple groups, Caucasian and Asian studies.",1
+"Multiple groups, 43 subjects (81%) were Chinese and 10 (19%) were Malay",1
+"Multiple groups, Brazilian, 61% White",1
+"Multiple groups, USA, 89% Caucasian",1
+"Multiple groups, Brazilian mixed cohort",1
+"Multiple groups, 97% White",1
+"Multiple groups, For all genotypes, there were 7907 subjects.  5749 were ""*1/*1"";1216 were *1/*2 (the rest were other genotypes). 12 studies were performed in Asia,13 in the Americas and 14 in Europe.",1
+"Multiple groups, Asian, American, African, European",1
+"Multiple groups, 76% Caucasian, 15-18% African American, 6-9% other/unknown",1
+"Multiple groups, 87% Caucasian",1
